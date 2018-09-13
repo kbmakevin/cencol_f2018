@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivityLifeCycleTest</string>
+
+    <string name="myLabelName">Activity Life Cycle Test</string>
+
+    <string name="buttonName">Good Button Test</string>
+
+</resources>
