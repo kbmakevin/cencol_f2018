@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleUI</string>
+    <string name="student_name">Name</string>
+    <string name="setName">SET</string>
+    <string name="igName">IG</string>
+    <string name="hitName">HIT</string>
+    <string name="mapdName">MAPD</string>
+    <string name="strCertificate">SET + Certificate</string>
+</resources>

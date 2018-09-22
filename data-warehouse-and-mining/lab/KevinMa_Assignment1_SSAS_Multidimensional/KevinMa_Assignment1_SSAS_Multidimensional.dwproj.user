@@ -3,7 +3,7 @@
     <Configuration>
       <Name>Development</Name>
       <Options>
-        <TargetServer>localhost</TargetServer>
+        <TargetServer>KEVINMA-XPS\MSSQLSERVER2017</TargetServer>
         <TargetDatabase>KevinMa_Assignment1_SSAS_Multidimensional</TargetDatabase>
         <StartObject>
           <ObjectId></ObjectId>
