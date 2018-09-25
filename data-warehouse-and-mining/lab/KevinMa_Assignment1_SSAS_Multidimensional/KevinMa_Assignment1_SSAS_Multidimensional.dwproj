@@ -43,6 +43,10 @@
       <Name>Promotion.dim</Name>
       <FullPath>Promotion.dim</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>DimInternetSalesOrder.dim</Name>
+      <FullPath>DimInternetSalesOrder.dim</FullPath>
+    </ProjectItem>
   </Dimensions>
   <DataSources>
     <ProjectItem>

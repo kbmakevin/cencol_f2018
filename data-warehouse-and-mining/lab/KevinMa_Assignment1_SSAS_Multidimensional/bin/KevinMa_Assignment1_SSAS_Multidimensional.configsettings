@@ -30,6 +30,9 @@
       <Dimension>
         <ID>Promotion</ID>
       </Dimension>
+      <Dimension>
+        <ID>DimInternetSalesOrder</ID>
+      </Dimension>
     </Dimensions>
     <Cubes>
       <Cube>
