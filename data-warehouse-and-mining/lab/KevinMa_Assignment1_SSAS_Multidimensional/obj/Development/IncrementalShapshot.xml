@@ -19,70 +19,70 @@
     <ObjectSnapshots>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
-        <TimeStamp>ja7iNYhKwQq2gx5nmI59o70TTSA=2018-09-20 3:33:54 PM2018-09-13 9:04:02 PM</TimeStamp>
+        <TimeStamp>ja7iNYhKwQq2gx5nmI59o70TTSA=2018-09-24 11:18:14 PM2018-09-24 11:18:14 PM</TimeStamp>
         <ID>
           <String>AdventureWorksDW2012</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>HRHK4S1th0lYDIkPkBJJnnguXo0=2018-09-22 4:56:22 PM2018-09-13 9:06:08 PM</TimeStamp>
+        <TimeStamp>HRHK4S1th0lYDIkPkBJJnnguXo0=2018-09-24 11:18:14 PM2018-09-24 11:18:14 PM</TimeStamp>
         <ID>
           <String>AdventureWorksDW2012</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>qr9W1zYaLNNHVfms6t1eBL+3DMs=2018-09-20 4:41:36 PM2018-09-20 2:59:21 PM</TimeStamp>
+        <TimeStamp>qr9W1zYaLNNHVfms6t1eBL+3DMs=2018-09-24 11:18:14 PM2018-09-24 11:18:14 PM</TimeStamp>
         <ID>
           <String>Date</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>Qyhe6OuOxD1fvMAmBh/do984+fs=2018-09-24 4:58:56 PM2018-09-20 2:59:21 PM</TimeStamp>
+        <TimeStamp>Qyhe6OuOxD1fvMAmBh/do984+fs=2018-09-24 11:18:14 PM2018-09-24 11:18:14 PM</TimeStamp>
         <ID>
           <String>Product</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>e7hpfOo+B64uUJJmqA+t3oHL9fY=2018-09-20 2:59:21 PM2018-09-20 2:59:21 PM</TimeStamp>
+        <TimeStamp>e7hpfOo+B64uUJJmqA+t3oHL9fY=2018-09-24 11:18:14 PM2018-09-24 11:18:14 PM</TimeStamp>
         <ID>
           <String>Currency</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>addFP+P3pav6A6OALY9yTnEJTC4=2018-09-22 4:03:41 PM2018-09-20 2:59:21 PM</TimeStamp>
+        <TimeStamp>addFP+P3pav6A6OALY9yTnEJTC4=2018-09-24 11:18:14 PM2018-09-24 11:18:14 PM</TimeStamp>
         <ID>
           <String>Customer</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>3LgZisTF98nyrNhuDcN0wfWUCmk=2018-09-20 3:59:56 PM2018-09-20 2:59:21 PM</TimeStamp>
+        <TimeStamp>3LgZisTF98nyrNhuDcN0wfWUCmk=2018-09-24 11:18:14 PM2018-09-24 11:18:14 PM</TimeStamp>
         <ID>
           <String>Sales Territory</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>cIMcWfPQquFRtXgPdebupaMwOfs=2018-09-20 2:59:21 PM2018-09-20 2:59:21 PM</TimeStamp>
+        <TimeStamp>cIMcWfPQquFRtXgPdebupaMwOfs=2018-09-24 11:18:14 PM2018-09-24 11:18:14 PM</TimeStamp>
         <ID>
           <String>Promotion</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>HK3QSqnKMoFWR6rwCH13s2G8XM4=2018-09-22 4:56:22 PM2018-09-22 4:56:21 PM</TimeStamp>
+        <TimeStamp>HK3QSqnKMoFWR6rwCH13s2G8XM4=2018-09-24 11:18:14 PM2018-09-24 11:18:14 PM</TimeStamp>
         <ID>
           <String>DimInternetSalesOrder</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>iygLGuNyGyTXNXyprsHmXnZxTuc=2018-09-24 7:12:34 PM2018-09-20 2:59:21 PMHGczaMv79y23zq7cN6ELzvnJ/HE=2018-09-20 2:59:21 PM2018-09-20 2:59:21 PM</TimeStamp>
+        <TimeStamp>iygLGuNyGyTXNXyprsHmXnZxTuc=2018-09-24 11:18:14 PM2018-09-24 11:18:14 PMHGczaMv79y23zq7cN6ELzvnJ/HE=2018-09-24 11:18:14 PM2018-09-24 11:18:14 PM</TimeStamp>
         <ID>
           <String>Internet Sales</String>
         </ID>
@@ -90,7 +90,7 @@
     </ObjectSnapshots>
     <DatabaseSnapshot>
       <Type>Microsoft.AnalysisServices.Database</Type>
-      <TimeStamp>amGPRYmTlWIgkAch02P03BQrEUg=2018-09-13 2:57:29 PM2018-09-13 2:57:28 PM</TimeStamp>
+      <TimeStamp>amGPRYmTlWIgkAch02P03BQrEUg=2018-09-24 11:18:14 PM2018-09-24 11:18:14 PM</TimeStamp>
       <ID>
         <String>KevinMa_Assignment1_SSAS_Multidimensional</String>
       </ID>
@@ -99,5 +99,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2018-09-24T23:54:34.15Z</LastDeployed>
+  <LastDeployed>2018-09-27T18:52:20.616667Z</LastDeployed>
 </DeploymentSnapshot>

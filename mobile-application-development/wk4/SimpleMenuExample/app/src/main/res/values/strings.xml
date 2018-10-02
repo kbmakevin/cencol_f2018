@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Menu Example</string>
+    <string name="start">Start game</string>
+    <string name="stop">Stop game</string>
+    <string name="help">Help</string>
+
+    <string name="edit">Edit item</string>
+    <string name="delete">Delete item</string>
+
+
+</resources>
