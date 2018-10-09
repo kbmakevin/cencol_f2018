@@ -1,0 +1,4 @@
+#Sun Sep 30 19:04:33 EDT 2018
+base.0=C\:\\Classes\\COMP304\\class_examples_androidstudio\\M18\\DialogFragmentExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

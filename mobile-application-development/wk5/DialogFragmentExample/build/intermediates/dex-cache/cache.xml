@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Classes\COMP304\class_examples_androidstudio\DialogFragmentExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Classes\COMP304\class_examples_androidstudio\DialogFragmentExample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_93e10beff632ae8c942d94fcc23afb48fbf8afb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Classes\COMP304\class_examples_androidstudio\DialogFragmentExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b55b60e7e514cce4e59ff4360e7753c7b9bc7eda">
+        <dex dex="C:\Classes\COMP304\class_examples_androidstudio\DialogFragmentExample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b6bd8756e11556bd530d8fa7c3eff34986ba2c4a\classes.dex" />
+    </item>
+
+</items>

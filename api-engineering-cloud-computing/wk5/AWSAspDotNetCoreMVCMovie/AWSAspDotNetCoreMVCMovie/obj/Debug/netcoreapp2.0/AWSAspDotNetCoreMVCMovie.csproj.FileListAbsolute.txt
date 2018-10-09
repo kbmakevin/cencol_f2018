@@ -1,0 +1,11 @@
+C:\Users\kbmak\Documents\cencol\f2018_sem6\api-engineering-cloud-computing\wk5\AWSAspDotNetCoreMVCMovie\AWSAspDotNetCoreMVCMovie\bin\Debug\netcoreapp2.0\AWSAspDotNetCoreMVCMovie.deps.json
+C:\Users\kbmak\Documents\cencol\f2018_sem6\api-engineering-cloud-computing\wk5\AWSAspDotNetCoreMVCMovie\AWSAspDotNetCoreMVCMovie\bin\Debug\netcoreapp2.0\AWSAspDotNetCoreMVCMovie.runtimeconfig.json
+C:\Users\kbmak\Documents\cencol\f2018_sem6\api-engineering-cloud-computing\wk5\AWSAspDotNetCoreMVCMovie\AWSAspDotNetCoreMVCMovie\bin\Debug\netcoreapp2.0\AWSAspDotNetCoreMVCMovie.runtimeconfig.dev.json
+C:\Users\kbmak\Documents\cencol\f2018_sem6\api-engineering-cloud-computing\wk5\AWSAspDotNetCoreMVCMovie\AWSAspDotNetCoreMVCMovie\bin\Debug\netcoreapp2.0\AWSAspDotNetCoreMVCMovie.dll
+C:\Users\kbmak\Documents\cencol\f2018_sem6\api-engineering-cloud-computing\wk5\AWSAspDotNetCoreMVCMovie\AWSAspDotNetCoreMVCMovie\obj\Debug\netcoreapp2.0\AWSAspDotNetCoreMVCMovie.csprojResolveAssemblyReference.cache
+C:\Users\kbmak\Documents\cencol\f2018_sem6\api-engineering-cloud-computing\wk5\AWSAspDotNetCoreMVCMovie\AWSAspDotNetCoreMVCMovie\obj\Debug\netcoreapp2.0\AWSAspDotNetCoreMVCMovie.csproj.CoreCompileInputs.cache
+C:\Users\kbmak\Documents\cencol\f2018_sem6\api-engineering-cloud-computing\wk5\AWSAspDotNetCoreMVCMovie\AWSAspDotNetCoreMVCMovie\obj\Debug\netcoreapp2.0\AWSAspDotNetCoreMVCMovie.AssemblyInfoInputs.cache
+C:\Users\kbmak\Documents\cencol\f2018_sem6\api-engineering-cloud-computing\wk5\AWSAspDotNetCoreMVCMovie\AWSAspDotNetCoreMVCMovie\obj\Debug\netcoreapp2.0\AWSAspDotNetCoreMVCMovie.AssemblyInfo.cs
+C:\Users\kbmak\Documents\cencol\f2018_sem6\api-engineering-cloud-computing\wk5\AWSAspDotNetCoreMVCMovie\AWSAspDotNetCoreMVCMovie\bin\Debug\netcoreapp2.0\AWSAspDotNetCoreMVCMovie.pdb
+C:\Users\kbmak\Documents\cencol\f2018_sem6\api-engineering-cloud-computing\wk5\AWSAspDotNetCoreMVCMovie\AWSAspDotNetCoreMVCMovie\obj\Debug\netcoreapp2.0\AWSAspDotNetCoreMVCMovie.dll
+C:\Users\kbmak\Documents\cencol\f2018_sem6\api-engineering-cloud-computing\wk5\AWSAspDotNetCoreMVCMovie\AWSAspDotNetCoreMVCMovie\obj\Debug\netcoreapp2.0\AWSAspDotNetCoreMVCMovie.pdb

@@ -1,0 +1,28 @@
+nosql
+4 types
+keyvalue pair
+Uses a very simple data model that stores data in a pair of unique keys and associated value?Commonly used for storing time series data, click stream data, and application logs?Examples of key-value pair databases are: DynamoDB, Redis, etc
+
+document
+Stores data elements in a structure that represents a document-like format such as JSON, XML, or YMAL?Commonly used for content management and monitoring application?Examples of document databases: MongoDB, CouchDB, etc
+
+graph
+Use graph structures and stores related data in nodes?Emphasizes on the connection between the data elements to accelerate query performance?Mainly used for storing geographical data and recommendation engines?Examples of graph databases: IBM graph, Neo4J
+
+wide column
+Stores data using column-oriented model?Stores data in a table-like structure and it can store large numbers of columns?Generally used for storing data related to internet searches and other similar large-scale web apps
+
+
+
+---
+"can drop 2 quizes"
+2018-10-07 reza @ 11:11am.
+
+---
+
+one asn
+week5 (Access RDS)
+works on school computers not on personal laptop
+
+make into hackathon, asn figure out why does not work on personal.
+

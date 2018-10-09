@@ -1,0 +1,2 @@
+bot_token='651982727:AAGZHYc-nEOFDZefOXqIgoogZFZKNvJs6TY'
+openweather_token='29692976ce1e17a3e223992fd2f5b195'

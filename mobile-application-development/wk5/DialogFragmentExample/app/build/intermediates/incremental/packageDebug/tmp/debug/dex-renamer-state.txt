@@ -1,0 +1,4 @@
+#Wed Oct 03 10:51:20 EDT 2018
+base.0=C\:\\Users\\kbmak\\Documents\\cencol\\f2018_sem6\\mobile-application-development\\wk5\\DialogFragmentExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
