@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Canvas Paint Example</string>
+    <string name="help">Use key down or right to draw</string>
+</resources>

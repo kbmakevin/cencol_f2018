@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\kbmak\\Documents\\cencol\\f2018_sem6\\mobile-application-development\\wk5\\DialogFragmentExample\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\kbmak\\Documents\\cencol\\f2018_sem6\\mobile-application-development\\wk5\\DialogFragmentExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "138,59",
+                        "endColumns": "58,77",
+                        "endOffsets": "192,132"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,77",
+                        "endOffsets": "109,187"
+                    }
+                }
+            ]
+        }
+    ]
+}
