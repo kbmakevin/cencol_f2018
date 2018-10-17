@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">kevinma_COMP304_001_Hands-On_Test1</string>
+
+    <!--first activity-->
+    <string name="first_act_title">Hands-On Test 1 COMP-304 001</string>
+    <string name="first_act_header">Brain Challenge</string>
+    <string name="first_act_bodytext">Challenge Your Brain with scientifically designed exercises</string>
+
+    <!--second activity-->
+    <string name="second_act_title">Brain Challenge</string>
+    <string name="second_act_radio_btn_text">Lose things</string>
+    <string name="second_act_radio_btn_text2">Remember names</string>
+    <string name="second_act_radio_btn_text3">Learn things quickly</string>
+    <string name="second_act_radio_btn_text4">Keep track of multiple things</string>
+    <string name="second_act_btn_txt">Next</string>
+
+    <string-array name="zig_zag_y_coords_val">
+        <item>120</item>
+        <item>80</item>
+    </string-array>
+
+</resources>
