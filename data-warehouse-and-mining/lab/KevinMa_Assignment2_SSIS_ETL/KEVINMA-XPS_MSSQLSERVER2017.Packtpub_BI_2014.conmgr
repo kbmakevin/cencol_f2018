@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="KEVINMA-XPS_MSSQLSERVER2017.Packtpub_BI_2014"
+  DTS:DTSID="{4719A34F-6D04-4EBA-AC16-4E0A9DED5773}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=KEVINMA-XPS\MSSQLSERVER2017;Initial Catalog=Packtpub_BI_2014;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
