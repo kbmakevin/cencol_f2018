@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Classes\COMP304\class_examples_androidstudio\F18\JSON\app\src\main\assets"/><source path="C:\Classes\COMP304\class_examples_androidstudio\F18\JSON\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Classes\COMP304\class_examples_androidstudio\F18\JSON\app\src\debug\assets"/></dataSet></merger>

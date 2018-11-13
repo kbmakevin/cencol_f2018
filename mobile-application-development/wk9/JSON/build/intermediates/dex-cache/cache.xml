@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Classes\COMP304\class_examples_androidstudio\JSON\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Classes\COMP304\class_examples_androidstudio\JSON\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_17e698426ef4a4e3ee31420c6ceda286c9d0d2f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Classes\COMP304\class_examples_androidstudio\JSON\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c58d064f780e8e73ceb478f7c0e821cbe2469728">
+        <dex dex="C:\Classes\COMP304\class_examples_androidstudio\JSON\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_78869059a052fba6121931aa5a21d90d51348c02.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Classes\COMP304\class_examples_androidstudio\JSON\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dce3d2d2d26439e306132fb6a38b51b46d42f30a">
+        <dex dex="C:\Classes\COMP304\class_examples_androidstudio\JSON\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_78869059a052fba6121931aa5a21d90d51348c02\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Classes\COMP304\class_examples_androidstudio\JSON\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a507f5dcd152de6a91a940698d745358dca4ddc5">
+        <dex dex="C:\Classes\COMP304\class_examples_androidstudio\JSON\app\build\intermediates\pre-dexed\debug\instant-run_17e698426ef4a4e3ee31420c6ceda286c9d0d2f2.jar" />
+    </item>
+
+</items>

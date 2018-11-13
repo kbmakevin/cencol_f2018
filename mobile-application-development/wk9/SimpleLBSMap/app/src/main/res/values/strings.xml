@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SimpleLBSMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_geo">GeoActivity</string>
+    <string name="title_activity_gps">GPSActivity</string>
+
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string-array name="activities">
+        <item>GeoActivity</item>
+        <item>MapActivity</item>
+        <item>GPSActivity</item>
+
+    </string-array>
+</resources>
