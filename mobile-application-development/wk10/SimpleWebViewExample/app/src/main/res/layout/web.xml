@@ -1,0 +1,52 @@
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:weightSum="3"
+    >
+    <LinearLayout
+        android:id="@+id/entry2"
+        android:layout_width="fill_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true">
+    <TextView
+        android:id="@+id/title"
+        android:text="MicroBrowser"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true" />
+    <WebView
+        android:id="@+id/web_content"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+
+        />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:id="@+id/entry"
+        android:layout_width="fill_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+        <EditText
+            android:id="@+id/url"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Enter new url..."
+            android:inputType="textUri"
+            android:maxWidth="270px"
+            android:textAppearance="@android:style/TextAppearance"
+            android:textColor="@android:color/holo_blue_light" />
+        <Button
+            android:id="@+id/go_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="40px"
+            android:text="Go!" />
+    </LinearLayout>
+    
+</RelativeLayout>
