@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AdventureWorksDW2012">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=KEVINMA-XPS\MSSQLSERVER2017;Initial Catalog=AdventureWorksDW2012</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Specify a user name and password for data source AdventureWorksDW2012</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>80ce5c99-d5a8-494d-a069-588e91541076</DataSourceID>
+</RptDataSource>

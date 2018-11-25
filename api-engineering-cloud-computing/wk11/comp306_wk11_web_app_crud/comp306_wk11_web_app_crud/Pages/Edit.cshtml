@@ -1,0 +1,22 @@
+﻿@page
+@model comp306_wk11_web_app_crud.Pages.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit Customer - ID #@Model.Customer.Id</h2>
+
+<form method="post">
+    <div asp-validation-summary="All">
+        <input asp-for="Customer.Id" type="hidden"/>
+        <div>
+            <label asp-for="Customer.Name"></label>
+            <div>
+                <input asp-for="Customer.Name"/>
+            </div>
+        </div>
+        <div>
+            <button type="submit">Save</button>
+        </div>
+    </div>
+</form>
