@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KevinMa_COMP304F18FinalLabTest_001</string>
+    <string name="stock_information_header_txt">Stock Information</string>
+    <string name="insert_stocks_hardcode_btn_txt">Insert Stocks (Hardcode)</string>
+    <string name="select_stock_symbol_header_txt">Select stock symbol:</string>
+    <string name="googl_radio_btn_txt">GOOGL</string>
+    <string name="amzn_radio_btn_txt">AMZN</string>
+    <string name="ssnlf_radio_btn_txt">SSNLF</string>
+    <string name="display_stock_info_btn_txt">Display Stock Info</string>
+
+</resources>
