@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "KevinMa_Asn4_DataMiningModels", "KevinMa_Asn4_DataMiningModels\KevinMa_Asn4_DataMiningModels.dwproj", "{7EBA9187-210C-4726-B30D-5BF8B29BC850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EBA9187-210C-4726-B30D-5BF8B29BC850}.Development|Default.ActiveCfg = Development
+		{7EBA9187-210C-4726-B30D-5BF8B29BC850}.Development|Default.Build.0 = Development
+		{7EBA9187-210C-4726-B30D-5BF8B29BC850}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8F02AB7-0B2E-48F9-8A34-C0DB697E328B}
+	EndGlobalSection
+EndGlobal
